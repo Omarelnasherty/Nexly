@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197398794626",
+    "project_id": "chatapp-b4670",
+    "storage_bucket": "chatapp-b4670.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197398794626:android:1f0dc3ab6a27ad33ac7f9b",
+        "android_client_info": {
+          "package_name": "com.iconic.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1MmkPnLebIZ75FZQL9VWe8o7sA-OL4x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
